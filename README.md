@@ -1,2 +1,0 @@
-# music-collecting
-Begin app
